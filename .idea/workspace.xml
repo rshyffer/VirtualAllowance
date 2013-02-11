@@ -2,163 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="963b1264-80cd-44ea-98c0-7c50f896aa08" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/FETCH_HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/description" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/hooks/applypatch-msg.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/hooks/commit-msg.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/hooks/post-update.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/hooks/pre-applypatch.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/hooks/pre-commit.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/hooks/pre-rebase.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/hooks/prepare-commit-msg.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/hooks/update.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/info/exclude" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/line_info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/logs/HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/logs/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/logs/refs/remotes/origin/HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/logs/refs/remotes/origin/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/03/2786b4a620b52ab1cb3a5b1feaf28d8c851eda" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/04/4654413f9c283c7ba4a83d873b1c44369da033" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/0b/9ca918f6f02c2adb236ccbfa58338da7311827" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/0f/5de8d99edbc402f67b2ee3dffc8700b7dda34d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/11/477d52e5b8add17752353ab84e34da46a21fc1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/13/a7ede5915d5f9f41a591df2adffb6240bb71bb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/16/b2d7d0ae903d9ce1d465fdbbbf4cea599a4eeb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/1a/121dcb87485fb1b7fd60255351f3866e25215d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/20/fedfcfe9c5054883293b36a2e290b2f291bcad" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/21/25666142eb661091cc5f32af2ed2f3fc65571d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/21/4e44541ed3374cbedcf773b766d847b99dac6f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/24/3eed33c901604099c6f1ef1ebb1c9db9b6da5e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/29/4e91d808263f2f5f935aed22e3cbce9faf8771" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/29/a035d7fc37681912d05d3a3da5ae8967d228b5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/2f/0bd40b21c03a25dec0c6e4228856d11335124a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/33/051de0a63dc4674fe32249f378e467843a54d8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/3d/b53fd2460dbecb598348e7592d42c2ee88fb7b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/3d/dd86a5e163e287491c2bf5ce426ca6b5763e4a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/3f/c31cc95f1820e61d114422f7620c4f727e47b9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/42/8f84a28c58f8035b58973142e3ea95735d5082" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/43/871dc353763e35bea58f2d981ef19b39636581" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/44/f0fa5fb3e75eec648a574cf6f1bd250b6f26c3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/45/ee4e85ebd27417df098abc0c338162f461f776" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/4a/99ca196a3d1e104ae788fdcb00b5344bc82478" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/4c/a9eda49b4f5e3cfa1976be25b8d95aa2781bd2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/52/c4af7d0fccd7ef44f74c40c00bfa6b95da48f7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/54/6bfd172b111fd359463da093788df4cf4f53e2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/54/861f644eee8e82dfe2becf22fa3747e7791907" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/5b/037cf2e10f1e8ee747d94d014bbd6aaa288b60" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/5c/5907e667683e5fd348a80cd29b5ee3d1f1e94e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/5d/9f2e8fd9c83e8b870818916ce90355b6456e76" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/61/46485a71d12eac1abd02ba8c235a28797c5757" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/6b/8184f8eff8a84b43e35fa349b3bac12afe3215" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/6c/481493d2201daace6cbaf2588c69b193bf5aad" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/6c/6f365405c9124abc6bd33651a1866a508fb360" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/70/158b2417a13ea76fe6af0f8646e5268de27e9e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/72/e13c4921efd19d4d94b336fd82a8f2f8146098" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/7f/14af9a9303baf73548d0881fe13c44b725b57f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/83/70dd92acd7b1048f5ab2e4c2ea2ef12f7e0b59" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/84/b53548ae70227ca49d59dfc177de0e8ac128d4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/88/7cb192abf94b40dcd817d9de2556e4dd2e5eb9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/89/677a0745f17bd3affa52bc98ba7544c5ca5f5f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/8c/d76bf9e17ab6b06cdc576693fb9916ba621e03" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/8c/d792075509ca2d8cfd63adb58473de78453354" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/90/c839ece9e6ee195a05767a03875bffc8cc074e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/92/2003b8433bcad6ce9778a37628d738faa26389" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/99/6f9ad5116564aad8473efda22479e11920c1c9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/9e/10668f9e5577fd0e1fe6668c0099fc46c78cd4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/9e/4bbcc5ed9638e01b0a9c6d99522baf770432ac" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/a0/9f9fc8a1e01b3c87a9ff95013917581ffdf338" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/a1/294bfe25a2818359881d4539c0772db62b5fdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/a6/f4384e0b157e18824d395d4550f460d63a0f7d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/a9/c6f52f05e50c6fd8dab6c30e22c8d4ea2f15ea" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/ab/286b7bdb8f473d0c303a78f5619d7961bce231" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/ab/fe536b16f344deb3911cbad51ce71cebf94650" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/af/3265bff174ef3850e5abd9056c2ef6d58cecb9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/b7/d68ac7ccc5b7ed996ebf51be5c2e8dd29c3639" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/ba/5f2827840d1886f9a230ec0562d175fb9dc937" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/bc/cc9981c10620f6fc7faebee2f5fbbc2652ae8e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/c2/fafc2d1847cedc2a81fb11ebffd9ef59e46909" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/c6/67e19bd3a87954535a443abc2c63f978906442" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/ca/6537212f333cdb567219903b2e196ba3fd292c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/d3/5b2f2209ff33cda1677a740dd51e5b33fc2a03" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/d5/43dc2ce3606abf90b83d9a3e241aca5000b2f1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/d6/45695673349e3947e8e5ae42332d0ac3164cd7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/da/04761057e1d6df30e3613578b3aceb661faa6b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/db/1bd24e988019d837be1e5802ab9e5b0a5dde1a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/db/96cea075a8cecc54e14261ad7c56818eab2dd4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/de/37e98c0f998a634cbe4c3109ed2866df39a40a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/de/f6a6a18457989c7d18825c7c1bbfeefc8b261d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/e2/06d70d8595e2a50675ba11de48efcfa012497d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/e9/8bac0d50fcf97546fc9a756185f39cf53ffef0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/ea/93bc931bcd04aa056d57f2ed68c0e656b28149" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/ed/5466a3afde5fe10fd147b3b8f6e4c5cebc1df5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/ed/dc29f2fd96630e8f9156a1cd36f3d9a5bb4693" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/ee/2cc216a6e2c9046926881d39f1ce92663d231d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/f0/e62d36fbdef76964dcd7af7716cb1e4350e101" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/f6/286fb70c80ecf5bc66e9706201f938c2ba8be0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/f7/2c966fef9a7705a2ffca568b9e02b14140266f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/f7/e7084f97aa36f043e503ba518dc56a7b8b0571" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/objects/fa/95413e1fdac01b417733063e9620a9e074cd79" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/packed-refs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/refs/heads/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/refs/remotes/origin/HEAD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.git - Copy/refs/remotes/origin/master" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/AllowanceManager.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/libraries/sass_stdlib.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea - Copy/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css - Copy/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css - Copy/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css - Copy/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/contribute.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/crossdomain.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/css.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/extend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/faq.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/htaccess.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/html.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/js.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/misc.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doc - Copy/usage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/startup/startup-retina-4in.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/startup/startup-retina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/startup/startup-tablet-landscape-retina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/startup/startup-tablet-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/startup/startup-tablet-portrait-retina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/startup/startup-tablet-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/startup/startup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/touch/apple-touch-icon-114x114-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/touch/apple-touch-icon-144x144-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/touch/apple-touch-icon-57x57-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/touch/apple-touch-icon-72x72-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/touch/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img - Copy/touch/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js - Copy/helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js - Copy/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js - Copy/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js - Copy/vendor/modernizr-2.6.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js - Copy/vendor/zepto.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools - Copy/mobile-bookmark-bubble/COPYING" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools - Copy/mobile-bookmark-bubble/bookmark_bubble.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools - Copy/mobile-bookmark-bubble/example/example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools - Copy/mobile-bookmark-bubble/example/example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools - Copy/mobile-bookmark-bubble/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools - Copy/mobile-bookmark-bubble/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools - Copy/mobile-bookmark-bubble/images/generate_base64_images" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tools - Copy/mobile-bookmark-bubble/images/icon_calendar.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="AllowanceManager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -417,6 +261,11 @@
       <created>1360364625954</created>
       <updated>1360364625954</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding some javascript code to do email validation.">
+      <created>1360571475423</created>
+      <updated>1360571475423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
