@@ -1,5 +1,5 @@
 
-$('#submitResetPassword').on("click", function(){
+$('#resetPasswordEmail').on("click", function(){
     console.log("jQuery method called");
 });
 
