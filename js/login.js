@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 $('#resetPasswordEmail').on("click", function(){
+=======
+$('#submitResetPassword').on("click", function(){
+>>>>>>> removing duplicates
     console.log("jQuery method called");
 });
 
